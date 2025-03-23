@@ -8,7 +8,7 @@
 
 1. 📝 [Описание проекта](https://github.com/Xadrikore/Mafia-bot-preview?tab=readme-ov-file#-описание-проекта)
 2. 🔧 [Основные функции](https://github.com/Xadrikore/Mafia-bot-preview?tab=readme-ov-file#-основные-функции)
-3. ⚙️ [Команды бота](https://github.com/Xadrikore/Mafia-bot-preview?tab=readme-ov-file#-команды-бота)
+3. ⚙️ [Команды бота](https://github.com/Xadrikore/Mafia-bot-preview?tab=readme-ov-file#%EF%B8%8F-команды-бота)
 4. 📜 [Правила игры](https://github.com/Xadrikore/Mafia-bot-preview?tab=readme-ov-file#-правила-игры)
 5. 🎬 [Пример использования](https://github.com/Xadrikore/Mafia-bot-preview?tab=readme-ov-file#-пример-использования)
 6. 📷 [Скриншоты](https://github.com/Xadrikore/Mafia-bot-preview?tab=readme-ov-file#-скриншоты)
